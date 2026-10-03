@@ -210,7 +210,7 @@ exact paths the grading rubric names — see the note in the folder structure ab
 | Monthly average score chart *(required)* | `outputs/python_chart.png` | Bar chart of average score by month (Jan→Feb→Mar) |
 | Attendance vs. score scatter *(supplementary)* | `assets/python_scatter_attendance_vs_score.png` | Every assessment plotted by attendance % vs. score, colour-coded pass/fail, with the pass threshold marked |
 
-![Monthly average score](outputs/python_chart.png)
+![Monthly average score](assets/python_chart.png)
 
 ![Attendance vs score](assets/python_scatter_attendance_vs_score.png)
 
