@@ -1,0 +1,13 @@
+assessment_id,month,course_id,course,department,batch,score,attendance_pct,pass_flag
+1,Jan,C1,Excel,Business,Morning,72,90,1
+2,Jan,C2,PowerBI,Business,Evening,45,70,0
+3,Jan,C3,SQL,Technology,Morning,65,85,1
+4,Jan,C4,Python,Technology,Weekend,38,60,0
+5,Feb,C1,Excel,Business,Evening,80,95,1
+6,Feb,C2,PowerBI,Business,Weekend,55,80,1
+7,Feb,C3,SQL,Technology,Morning,48,75,0
+8,Feb,C4,Python,Technology,Evening,68,88,1
+9,Mar,C1,Excel,Business,Weekend,90,98,1
+10,Mar,C2,PowerBI,Business,Morning,60,82,1
+11,Mar,C3,SQL,Technology,Evening,75,92,1
+12,Mar,C4,Python,Technology,Weekend,42,65,0

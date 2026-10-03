@@ -1,0 +1,7 @@
+batch,department,avg_score,avg_attendance,n
+Evening,Business,62.5,82.5,2
+Evening,Technology,71.5,90.0,2
+Morning,Business,66.0,86.0,2
+Morning,Technology,56.5,80.0,2
+Weekend,Business,72.5,89.0,2
+Weekend,Technology,40.0,62.5,2
